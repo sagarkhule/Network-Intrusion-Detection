@@ -1,6 +1,5 @@
 # Network-Intrusion-Detection
-Loosely based on research paper **A Novel Statistical Analysis and Autoencoder Driven Intelligent Intrusion Detection Approach** 
-https://doi.org/10.1016/j.neucom.2019.11.016
+
 
 
 ## Repository Structure
