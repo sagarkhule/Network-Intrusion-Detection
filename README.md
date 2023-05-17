@@ -2,8 +2,6 @@
 Loosely based on research paper **A Novel Statistical Analysis and Autoencoder Driven Intelligent Intrusion Detection Approach** 
 https://doi.org/10.1016/j.neucom.2019.11.016
 
-## Blog of this Project
-- ## [Network Intrusion Detection using Deep Learning on Medium.com](https://medium.com/geekculture/network-intrusion-detection-using-deep-learning-bcc91e9b999d?source=friends_link&sk=2b84dd61f3e76d63af0a14daf6f89f43)
 
 ## Repository Structure
 Network-Intrusion-Detection-Using-Machine-Learning
@@ -82,14 +80,7 @@ The notebook can be run on
  - Google Colaboratory
  - Jupyter Notebook
  
-## Instructions
- - To run the code, user must have the required Dataset on their system or programming environment.
- - Upload the notebook and dataset on Jupyter Notebook or Google
-   Colaboratory.
- - Click on the file with .ipynb extension to open the notebook. To run
-   complete code at once press Ctrl + F9
- - To run any specific segment of code, select that code cell and press
-   Shift+Enter or Ctrl+Shift+Enter
+
 
 >**Caution - The code should be executed in the given order for best results without encountering any errors.**
 
